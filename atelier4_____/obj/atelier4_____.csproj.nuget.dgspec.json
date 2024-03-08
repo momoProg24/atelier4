@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\melag\\OneDrive\\Bureau\\Session H24\\Veilles Technologiques\\atelier4_____\\atelier4_____.csproj": {}
+    "C:\\Users\\melag\\OneDrive\\Bureau\\ProjetIntegration\\atelier4\\atelier4_____\\atelier4_____.csproj": {}
   },
   "projects": {
-    "C:\\Users\\melag\\OneDrive\\Bureau\\Session H24\\Veilles Technologiques\\atelier4_____\\atelier4_____.csproj": {
+    "C:\\Users\\melag\\OneDrive\\Bureau\\ProjetIntegration\\atelier4\\atelier4_____\\atelier4_____.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\melag\\OneDrive\\Bureau\\Session H24\\Veilles Technologiques\\atelier4_____\\atelier4_____.csproj",
+        "projectUniqueName": "C:\\Users\\melag\\OneDrive\\Bureau\\ProjetIntegration\\atelier4\\atelier4_____\\atelier4_____.csproj",
         "projectName": "atelier4_____",
-        "projectPath": "C:\\Users\\melag\\OneDrive\\Bureau\\Session H24\\Veilles Technologiques\\atelier4_____\\atelier4_____.csproj",
+        "projectPath": "C:\\Users\\melag\\OneDrive\\Bureau\\ProjetIntegration\\atelier4\\atelier4_____\\atelier4_____.csproj",
         "packagesPath": "C:\\Users\\melag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\melag\\OneDrive\\Bureau\\Session H24\\Veilles Technologiques\\atelier4_____\\obj\\",
+        "outputPath": "C:\\Users\\melag\\OneDrive\\Bureau\\ProjetIntegration\\atelier4\\atelier4_____\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
